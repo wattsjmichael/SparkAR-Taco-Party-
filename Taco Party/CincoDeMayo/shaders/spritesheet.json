@@ -1,0 +1,36 @@
+{
+	"frames": [
+		{
+			"filename": "taco.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 900,
+				"h": 1061
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 900,
+				"h": 1061
+			},
+			"sourceSize": {
+				"w": 900,
+				"h": 1061
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 902,
+			"h": 1063
+		},
+		"scale": "1"
+	}
+}
